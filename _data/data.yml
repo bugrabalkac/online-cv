@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: bugrabalkac@gmail.com
     phone: 532 284 63 63
-    website: blog.webjeda.com #do not add http://
+    website:    #do not add http://
     linkedin: bugrabalkac
     github: bugrabalkac
     gitlab:
@@ -43,86 +43,69 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+    summary: 
+    Experienced Data Analyst with a demonstrated history of working 
+    in the banking industry. Skilled in Analytical Skills, Statistical Data Analysis, 
+    Customer Relationship Management (CRM), Data Science, and Data Warehousing. 
+    Strong program and project management professional with a Master of Science 
+    focused on Management Information Systems from Marmara Üniversitesi. 
 
 education:
     - degree: MSc in Management Information Systems
       university: Marmara University
       time: 2012 - 2013
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      details: High Honor Student
 
     - degree: BSc in Industrial Engineering
       university: Sabanci University
       time: 2005 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Data Scientist
+      time: 2017 March - Present
+      company: Yapı Kredi Bank, Istanbul
+      details:|
+      Working as Data Scientist in Advanced Analytics department 
+      which is directly report to CDO.
+      - Making models about Application Risk , Behavioral Risk and Collection
+      - Making tests and deploy models based on Data Mining, 
+        Statistical Learning and Hybrid learning algorithms
+      - Managing, analyzing, designing, model and test for analytic projects
+      - Using SAS Miner/Guide, R Programming for projects.
+
+    - role: Data Scientist
+      time: 2015 June - 2017 March
+      company: Bank Pozitif, Istanbul
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+      - Working as Senior Statistical Model Developer and Data Scientist 
+      in Retail Loan department.
+      - Making analysis about Retail Loan Risks, Customer Risk segmentation
+      - Making tests and deploy models based on Data Mining, 
+        Statistical Learning and Hybrid learning algorithms
+      - Managing, analyzing, designing, model and test for analytic projects
+      - Maintaining the analytic projects deployed in the live system
+      - Using IBM Spss Modeler, R Programming for projects.
+      - Using Tableau for visualization projects. 
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Data Analyst
+      time: Jul 2014 - Jun 2015
+      company: Migros T.A.S, Istanbul
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+       Experienced with different analytical projects in Migros Datawarehouse.
+       Using different statistical concepts (regression,apriori,time series models) 
+       to design Statistical Models and analysis with IBM SPSS Modeler and Teradata Warehouse Miner products
+       Using Tableau to analyse and visualize projects
+       Using IBM C&DS to schedule SPSS modeling streams
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+        - Market Basket Analysis
+        - Customer RFM Segmentation
+        - Customer Churn Modelling
+        - Product offer mechanisms
+        - Market Fraud Analysis
+        - Campaign Fraud Analysis
+        
+        Using IBM SPSS Modeler 16, Teradata Warehouse Modeler 5.3.4, Tableau effectively. 
 projects:
     title: Projects
     intro: >
