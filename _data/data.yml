@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -43,7 +43,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: 
+    summary: |
     Experienced Data Analyst with a demonstrated history of working 
     in the banking industry. Skilled in Analytical Skills, Statistical Data Analysis, 
     Customer Relationship Management (CRM), Data Science, and Data Warehousing. 
