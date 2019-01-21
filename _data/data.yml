@@ -39,16 +39,19 @@ sidebar:
         link:
 
       - item: Puzzles
-        link:
+        link: 
+
 
 career-profile:
     title: Career Profile
     summary: |
-    Experienced Data Analyst with a demonstrated history of working 
-    in the banking industry. Skilled in Analytical Skills, Statistical Data Analysis, 
-    Customer Relationship Management (CRM), Data Science, and Data Warehousing. 
-    Strong program and project management professional with a Master of Science 
-    focused on Management Information Systems from Marmara Üniversitesi. 
+        Experienced Data Analyst with a demonstrated history of working 
+        in the banking industry. Skilled in Analytical Skills, Statistical Data Analysis, 
+        Customer Relationship Management (CRM), Data Science, and Data Warehousing. 
+        Strong program and project management professional with a Master of Science 
+        focused on Management Information Systems from Marmara Üniversitesi. 
+
+
 
 education:
     - degree: MSc in Management Information Systems
@@ -65,28 +68,28 @@ experiences:
     - role: Data Scientist
       time: 2017 March - Present
       company: Yapı Kredi Bank, Istanbul
-      details:|
-      Working as Data Scientist in Advanced Analytics department 
-      which is directly report to CDO.
-      - Making models about Application Risk , Behavioral Risk and Collection
-      - Making tests and deploy models based on Data Mining, 
-        Statistical Learning and Hybrid learning algorithms
-      - Managing, analyzing, designing, model and test for analytic projects
-      - Using SAS Miner/Guide, R Programming for projects.
+      details: |
+        Working as Data Scientist in Advanced Analytics department 
+        which is directly report to CDO.
+        - Making models about Application Risk , Behavioral Risk and Collection
+        - Making tests and deploy models based on Data Mining, 
+          Statistical Learning and Hybrid learning algorithms
+        - Managing, analyzing, designing, model and test for analytic projects
+        - Using SAS Miner/Guide, R Programming for projects.
 
     - role: Data Scientist
       time: 2015 June - 2017 March
       company: Bank Pozitif, Istanbul
       details: |
-      - Working as Senior Statistical Model Developer and Data Scientist 
-      in Retail Loan department.
-      - Making analysis about Retail Loan Risks, Customer Risk segmentation
-      - Making tests and deploy models based on Data Mining, 
-        Statistical Learning and Hybrid learning algorithms
-      - Managing, analyzing, designing, model and test for analytic projects
-      - Maintaining the analytic projects deployed in the live system
-      - Using IBM Spss Modeler, R Programming for projects.
-      - Using Tableau for visualization projects. 
+         - Working as Senior Statistical Model Developer and Data Scientist 
+            in Retail Loan department.
+         - Making analysis about Retail Loan Risks, Customer Risk segmentation
+         - Making tests and deploy models based on Data Mining, 
+            Statistical Learning and Hybrid learning algorithms
+         - Managing, analyzing, designing, model and test for analytic projects
+         - Maintaining the analytic projects deployed in the live system
+         - Using IBM Spss Modeler, R Programming for projects.
+         - Using Tableau for visualization projects. 
 
     - role: Data Analyst
       time: Jul 2014 - Jun 2015
