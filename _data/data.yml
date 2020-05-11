@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: bugrabalkac@gmail.com
     phone: 532 284 63 63
-    website:    #do not add http://
+    website:    www.bugrabalkac.me
     linkedin: bugrabalkac
     github: bugrabalkac
     gitlab:
@@ -65,8 +65,19 @@ education:
       details: |
 
 experiences:
+    - role: Advanced Analytics Manager
+      time: 2019 June - Present
+      company: PriceWaterhouseCoopers(PwC), Istanbul
+      details: |
+        Working as Advanced Analytics Manager in Financial Services department 
+        - Creation Risk/Marketing and Fraud Models in Financial Services sector
+        - Validation and Review of Analytical Models 
+        - Creation IFRS 9 Related Models (PD,LGD,EAD and CCF Models)
+        - Managing end to end analytic projects
+        - Using SAS Miner/Guide, R Programming for projects.
+
     - role: Data Scientist
-      time: 2017 March - Present
+      time: 2017 March - 2019 June
       company: Yapı Kredi Bank, Istanbul
       details: |
         Working as Data Scientist in Advanced Analytics department 
@@ -137,4 +148,4 @@ skills:
         level: 85%
 
       - name: Python
-        level: 60%
+        level: 70%
